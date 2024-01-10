@@ -1,0 +1,6 @@
+Senior;7
+Junior;1
+Junior;0
+Middle;2
+Middle;5
+Senior;10

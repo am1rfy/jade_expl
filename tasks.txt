@@ -1,0 +1,8 @@
+Easy;100
+Medium;500
+Difficult;1000
+Easy;50
+Medium;300
+Difficult;1200
+Easy;10
+Medium;250
